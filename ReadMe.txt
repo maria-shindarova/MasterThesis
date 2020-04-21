@@ -1,12 +1,16 @@
-Tова е линк към текста и програмите за дипломната ми работа:
+TГ®ГўГ  ГҐ Г«ГЁГ­ГЄ ГЄГєГ¬ ГІГҐГЄГ±ГІГ  ГЁ ГЇГ°Г®ГЈГ°Г Г¬ГЁГІГҐ Г§Г  Г¤ГЁГЇГ«Г®Г¬Г­Г ГІГ  Г¬ГЁ Г°Г ГЎГ®ГІГ :
 
 https://www.dropbox.com/sh/xdyzkg75hqi2jbl/AACOKvd2Jzw655KlI5E4n3CRa?dl=0&lst=
 
-Файловете maria_shindarova_f07721_diplomna_rabota.pdf и maria_shindarova_f07721_diplomna_rabota.docx са напълно еднакви. 
+Г”Г Г©Г«Г®ГўГҐГІГҐ maria_shindarova_f07721_diplomna_rabota.pdf ГЁ maria_shindarova_f07721_diplomna_rabota.docx Г±Г  Г­Г ГЇГєГ«Г­Г® ГҐГ¤Г­Г ГЄГўГЁ. 
 
-Линкът от Diplomna Rabota Resources е на втори ред от този файл.
+DiplomnaDB  - РїСЂРѕРіСЂР°РјРё Р·Р° РїРѕРїСЉР»РІР°РЅРµ РЅР° Р±Р°Р·Р°С‚Р° РґР°РЅРЅРё РєСЉРј РґРёРїР»РѕРјРЅР°С‚Р° СЂР°Р±РѕС‚Р° 
 
-Благодаря Ви за отделеното време
+DiplomnaRabotaClear  - РґРёРїР»РѕРјРЅР° СЂР°Р±РѕС‚Р°
+
+Г‹ГЁГ­ГЄГєГІ Г®ГІ Diplomna Rabota Resources ГҐ Г­Г  ГўГІГ®Г°ГЁ Г°ГҐГ¤ Г®ГІ ГІГ®Г§ГЁ ГґГ Г©Г«.
+
+ГЃГ«Г ГЈГ®Г¤Г Г°Гї Г‚ГЁ Г§Г  Г®ГІГ¤ГҐГ«ГҐГ­Г®ГІГ® ГўГ°ГҐГ¬ГҐ
 
 ===================================================================================================================================
 
@@ -15,6 +19,10 @@ Tova e link kum teksta i programite na diplomnata mi rabota:
 https://www.dropbox.com/sh/xdyzkg75hqi2jbl/AACOKvd2Jzw655KlI5E4n3CRa?dl=0&lst=
 
 Failovete maria_shindarova_f07721_diplomna_rabota.pdf i maria_shindarova_f07721_diplomna_rabota.docx sa napulno ednakvi. 
+
+DiplomnaDB  - programi za populvane na baza danni kum diplomna rabota 
+
+DiplomnaRabotaClear  - diplomna rabota
 
 Linkut ot Diplomna Rabota Resources e na vtori red ot tozi fail.
 
