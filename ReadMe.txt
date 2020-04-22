@@ -1,18 +1,18 @@
-Tîâà å ëèíê êúì òåêñòà è ïðîãðàìèòå çà äèïëîìíàòà ìè ðàáîòà:
+
+Това е линк към текста и програмите на магистърската ми теза:
 
 https://www.dropbox.com/sh/xdyzkg75hqi2jbl/AACOKvd2Jzw655KlI5E4n3CRa?dl=0&lst=
 
-Ôàéëîâåòå maria_shindarova_f07721_diplomna_rabota.pdf è maria_shindarova_f07721_diplomna_rabota.docx ñà íàïúëíî åäíàêâè. 
+Файловете maria_shindarova_f07721_diplomna_rabota.pdf и maria_shindarova_f07721_diplomna_rabota.docx са еднакви. 
 
-DiplomnaDB  - програми за попълване на базата данни към дипломната работа 
+DiplomnaDB - програми за попълване на базата данни към дипломната работа 
 
 DiplomnaRabotaClear  - дипломна работа
 
-Ëèíêúò îò Diplomna Rabota Resources å íà âòîðè ðåä îò òîçè ôàéë.
-
-Áëàãîäàðÿ Âè çà îòäåëåíîòî âðåìå
+Благодаря Ви за отделеното време
 
 ===================================================================================================================================
+
 
 Tova e link kum teksta i programite na diplomnata mi rabota:
 
